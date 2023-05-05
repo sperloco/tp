@@ -1,0 +1,131 @@
+/* body */
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(https://c.wallhere.com/photos/73/c7/stars_forest_landscape_nightscape_Milky_Way_trees_path_grass-1490491.jpg!d);
+}
+
+/* Estilos de imágenes */
+img {
+  width: 150px;
+  height: auto;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+/* Estilo del encabezado */
+.encabezado {
+  float: right;
+  width: 60%;
+  height: 1%;
+  margin: 0px;
+  padding: 0px;
+  color: aliceblue;
+}
+
+#encabezado {
+  margin: 0px;
+  padding: 1px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* contenido principal */
+.contenido {
+  margin-top: 0%;
+}
+
+/* estilo barra lateral */
+#barra-lateral {
+  float: left;
+  width: 25%;
+  height: 50%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: brown;
+}
+
+/* seccion secundaria */
+#secundario h2 {
+  color:black;
+}
+
+#secundario ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#secundario ul li {
+  margin-bottom: 5px;
+}
+
+/* estilo "Sobre mí" */
+#sobre-mi {
+  float: left;
+  width: 68.6%;
+  height: 150px;
+  color: aliceblue;
+  text-decoration: underline
+}
+
+/* estilo "Comentarios" */
+#comentarios {
+  margin: 1px;
+  padding: 1px;
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* estilo "Experiencia laboral" */
+#experiencia-laboral {
+  float: left;
+  width: 68.6%;
+  height: 150px;
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aliceblue;
+  text-decoration: underline
+}
+
+.experiencia {
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* estilo footer */
+.pie {
+  position: absolute;
+  bottom: -150px; 
+  width: 75%;
+  height: 15%; 
+  background-color: darkslategray;
+  text-align: center;
+  padding-top: 15px;
+  margin-left: 26.3%; 
+}
+
+/* estilo encabezado */
+h1 {
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h2,
+h3,
+h4,
+h5 {
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* Estilos de los parrafos*/
+p {
+  font-size: 15px;
+  font-family:
+ }
+/* fuente de los link de redes sociales*/
+ a{
+  color: black;
+ }
