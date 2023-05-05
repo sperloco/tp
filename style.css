@@ -96,10 +96,10 @@ img {
 
 /* estilo footer */
 .pie {
-  position: absolute;
-  bottom: -150px; 
+  position: fixed;
+  bottom: 0; 
   width: 75%;
-  height: 15%; 
+  height: auto; 
   background-color: darkslategray;
   text-align: center;
   padding-top: 15px;
